@@ -1,5 +1,5 @@
 variable file_name{
-default = "123.txt"
+default = "java.txt"
 }
 variable content{
 default = "this is Raghavendra"
